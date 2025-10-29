@@ -1,0 +1,22 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: black
+}
+
+
+body {
+    text-align: center;
+    background-color: lightblue;
+    background-color: rgba(92, 108, 229, 0.6)
+}
+
+form {
+    background-color: white;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgba(63, 212, 207, 0.1);
+}
